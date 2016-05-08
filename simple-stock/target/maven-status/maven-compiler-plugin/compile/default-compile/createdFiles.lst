@@ -1,0 +1,15 @@
+com\jpmorgan\simple\stock\service\impl\SimpleStockServiceImpl.class
+com\jpmorgan\simple\stock\entity\TradeType.class
+com\jpmorgan\exception\JPMServiceException.class
+com\jpmorgan\simple\stock\entity\Stock.class
+com\jpmorgan\simple\stock\calculator\StockCalculator$1.class
+com\jpmorgan\utils\DateUtils.class
+com\jpmorgan\simple\stock\manager\SimpleStockDataLoader.class
+com\jpmorgan\simple\stock\calculator\StockCalculator.class
+com\jpmorgan\simple\stock\manager\StockEntityManager.class
+com\jpmorgan\simple\stock\entity\Trade.class
+com\jpmorgan\simple\stock\manager\impl\StockEntityManagerImpl.class
+com\jpmorgan\exception\JPMDataException.class
+com\jpmorgan\utils\CommonUtils.class
+com\jpmorgan\simple\stock\service\SimpleStockService.class
+com\jpmorgan\simple\stock\entity\StockType.class
